@@ -1,4 +1,5 @@
 SWGSetups
 =========
 Help us work on SWG PvP Setups.
-Post information for the profession that you are fimiliar with.
+You can do research for particular classes of your choice.
+If you see any guides that look wrong, just change it.
